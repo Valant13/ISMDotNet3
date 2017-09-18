@@ -1,0 +1,7 @@
+D:\GitHub\ISMDotNet3\Arrays1\bin\Debug\Arrays1.exe.config
+D:\GitHub\ISMDotNet3\Arrays1\bin\Debug\Arrays1.exe
+D:\GitHub\ISMDotNet3\Arrays1\bin\Debug\Arrays1.pdb
+D:\GitHub\ISMDotNet3\Arrays1\obj\Debug\Arrays1.csprojResolveAssemblyReference.cache
+D:\GitHub\ISMDotNet3\Arrays1\obj\Debug\Arrays1.csproj.CoreCompileInputs.cache
+D:\GitHub\ISMDotNet3\Arrays1\obj\Debug\Arrays1.exe
+D:\GitHub\ISMDotNet3\Arrays1\obj\Debug\Arrays1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nikita\Desktop\Горячее\Программирование\C#\Lab3\Lab3\Arrays3\bin\Debug\Arrays3.exe.config
+C:\Users\Nikita\Desktop\Горячее\Программирование\C#\Lab3\Lab3\Arrays3\bin\Debug\Arrays3.exe
+C:\Users\Nikita\Desktop\Горячее\Программирование\C#\Lab3\Lab3\Arrays3\bin\Debug\Arrays3.pdb
+C:\Users\Nikita\Desktop\Горячее\Программирование\C#\Lab3\Lab3\Arrays3\obj\Debug\Arrays3.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Горячее\Программирование\C#\Lab3\Lab3\Arrays3\obj\Debug\Arrays3.exe
+C:\Users\Nikita\Desktop\Горячее\Программирование\C#\Lab3\Lab3\Arrays3\obj\Debug\Arrays3.pdb
+C:\Users\Nikita\Desktop\Горячее\Программирование\C#\Lab3\Lab3\Arrays3\obj\Debug\Arrays3.csprojResolveAssemblyReference.cache
